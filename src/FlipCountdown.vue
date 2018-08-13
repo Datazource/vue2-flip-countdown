@@ -202,7 +202,7 @@ export default {
 .flip-card__back::after {
   display: block;
   height: @halfHeight;
-  color: #cca900;
+  color: #ffffff;
   background: #222;
   padding: 0.23em 0.15em 0.4em;
   border-radius: @borderRadius @borderRadius 0 0;
@@ -215,7 +215,7 @@ export default {
 
 .flip-card__bottom,
 .flip-card__back-bottom {
-  color: #ffdc00;
+  color: #ffffff;
   position: absolute;
   top: 50%;
   left: 0;
