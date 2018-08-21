@@ -37,25 +37,25 @@ export default {
         {
           current: 0,
           previous: 0,
-          label: 'Days',
+          label: 'Hari',
           elementId: 'flip-card-days'
         },
         {
           current: 0,
           previous: 0,
-          label: 'Hours',
+          label: 'Jam',
           elementId: 'flip-card-hours'
         },
         {
           current: 0,
           previous: 0,
-          label: 'Minutes',
+          label: 'Menit',
           elementId: 'flip-card-minutes'
         },
         {
           current: 0,
           previous: 0,
-          label: 'Seconds',
+          label: 'Detik',
           elementId: 'flip-card-seconds'
         }
       ]
